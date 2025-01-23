@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [My Portfoilio](chineduoscar.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfoilio](https://chineduoscar.netlify.app)
 
 - 💬 Ask me about **react, nodejs, typeScript**
 
