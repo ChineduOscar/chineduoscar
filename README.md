@@ -1,5 +1,5 @@
 <img src="https://res.cloudinary.com/dk2lp36y5/image/upload/v1737644076/github-header-image_ovldgv.png" />
-<h1 align="center">Hi 👋, I'm Chinedu Nnadozie Oscar</h1>
+<h1 align="center">Hi <img src="https://i.giphy.com/Q7LHmoFwVP6Yc1swZs.webp" alt="👋" />, I'm Chinedu Nnadozie Oscar</h1>
 <h3 align="center">Passionate Fullstack Developer | The dev you need 😊!</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
