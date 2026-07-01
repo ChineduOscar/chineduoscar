@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/therealmatcher" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealmatcher" height="30" width="40" /></a>
+  <a href="https://x.com/therealmatcher" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="therealmatcher" height="30" width="30" style="background-color:white;border-radius:4px;padding:4px;"/></a>
   <a href="https://linkedin.com/in/nnadozie-chinedu-62448a19b" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nnadozie-chinedu-62448a19b" height="30" width="40" /></a>
   <a href="https://www.instagram.com/therealmatcher/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therealmatcher" height="30" width="40" /></a>
 </p>
@@ -36,7 +36,7 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background-color:white;border-radius:4px;padding:2px;"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="nestjs" width="40" height="40"/></a>
   <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
@@ -55,11 +55,6 @@
 ---
 
 ### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chineduoscar&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="chineduoscar stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=chineduoscar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chineduoscar top langs"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=chineduoscar&theme=tokyonight" alt="chineduoscar streak stats" />
