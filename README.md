@@ -1,33 +1,33 @@
 <img src="https://res.cloudinary.com/dk2lp36y5/image/upload/v1737644076/github-header-image_ovldgv.png" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Chinedu Nnadozie Oscar</h1>
-<h3 align="center">Passionate Fullstack Developer | The dev you need 😊</h3>
+<h1 align="center">Hi, I'm Chinedu Nnadozie Oscar</h1>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chineduoscar&label=Profile%20views&color=0e75b6&style=flat" alt="chineduoscar" />
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/chinedudozie1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chinedudozie1" height="30" width="40" /></a>
+  <a href="https://x.com/therealmatcher" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealmatcher" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/nnadozie-chinedu-62448a19b" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nnadozie-chinedu-62448a19b" height="30" width="40" /></a>
-  <a href="https://instagram.com/chineduorscar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chineduorscar" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/therealmatcher/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therealmatcher" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🌱 I'm currently learning **Artificial Intelligence**
-- 💼 I build fullstack apps with **React, Next.js, Node.js, NestJS & Laravel**
-- 🗄️ Comfortable working with **PostgreSQL, MongoDB & Prisma**
-- 👨‍💻 All of my projects are available at my **[Portfolio](https://chineduoscar.netlify.app)**
-- 💬 Ask me about **React, Node.js, TypeScript, NestJS, Laravel**
-- 📫 Reach me at **chinedunnadozieo@gmail.com**
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1Kb4ws_oWg3GWs9RI0bH5joe-Bog077co/view?usp=sharing)**
+- Currently learning **Artificial Intelligence**
+- Building fullstack apps with **React, Next.js, Node.js, NestJS & Laravel**
+- Working with **PostgreSQL, MongoDB & Prisma**
+- Portfolio: **[chineduoscar.netlify.app](https://chineduoscar.netlify.app)**
+- Ask me about **React, Node.js, TypeScript, NestJS, Laravel**
+- Email: **chinedunnadozieo@gmail.com**
+- Resume: **[View here](https://drive.google.com/file/d/1Kb4ws_oWg3GWs9RI0bH5joe-Bog077co/view?usp=sharing)**
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=chineduoscar&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="chineduoscar stats"/>
@@ -62,5 +62,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chineduoscar&theme=tokyonight" alt="chineduoscar streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=chineduoscar&theme=tokyonight" alt="chineduoscar streak stats" />
 </p>
